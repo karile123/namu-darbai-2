@@ -1,0 +1,21 @@
+
+table , th, td {
+    border-collapse: collapse;
+    border-bottom: 4px solid grey;
+    border-right: 1px solid grey;
+    padding: 15px;
+    margin: auto;
+}
+
+th{
+    background-color: darkgreen;
+    color: white;
+    background: rgba(70, 100, 80, 0.5);
+}
+body{
+    background-image: url(pictures/red-wallpaper-8.jpg);
+}
+.color{
+    background-color: white;
+    color: blue;
+}
